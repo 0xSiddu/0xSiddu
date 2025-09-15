@@ -13,8 +13,7 @@ I'm a cybersecurity researcher, pentester, and a passionate developer focused on
 - 🛠 **Tools**:  
   - **Web & API**: Burp Suite | Acunetix | OWASP ZAP | Postman | FFUF  
   - **Mobile Pentesting**: MobSF | Frida | Objection | JADX | APKTool | Drozer  
-  - **Exploitation & Recon**: Metasploit | Nmap | SQLMap | Amass | Subfinder  
-  - **Reverse Engineering**: Ghidra | IDA Pro | Radare2  
+  - **Exploitation & Recon**: Metasploit | Nmap | SQLMap | Amass | Subfinder 
 
 ## 🏆 Bug Bounty & Security Research  
 [![Intigriti](https://img.shields.io/badge/Intigriti-000000?style=for-the-badge&logo=intigriti&logoColor=white)](https://app.intigriti.com/profile/pr3dato7)  
