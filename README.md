@@ -6,13 +6,12 @@ I'm a cybersecurity researcher, pentester, and a passionate developer focused on
 - 🔥 **Cybersecurity** | **Penetration Testing** | **Red Teaming**  
 - 🐧 **Linux** | Kali | Docker | Tmux  
 - 📜 **Programming**: Python | Bash | JavaScript  
-- ☁️ **Cloud Security** | DevSecOps  
 - 🎭 **OSINT** | Bug Bounty  
-- 📲 **Mobile Security**: Android & iOS Pentesting | Reverse Engineering  
+- 📲 **Mobile Security**: Android & iOS Pentesting   
 - 🌐 **Web Security**: Web App Pentesting | API Pentesting  
 - 🛠 **Tools**:  
   - **Web & API**: Burp Suite | Acunetix | OWASP ZAP | Postman | FFUF  
-  - **Mobile Pentesting**: MobSF | Frida | Objection | JADX | APKTool | Drozer  
+  - **Mobile Pentesting**: MobSF | Frida | Objection | JADX | APKTool   
   - **Exploitation & Recon**: Metasploit | Nmap | SQLMap | Amass | Subfinder 
 
 ## 🏆 Bug Bounty & Security Research  
