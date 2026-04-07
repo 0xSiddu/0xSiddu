@@ -7,7 +7,7 @@ I'm a cybersecurity researcher, pentester, and a passionate developer focused on
 - 🐧 **Linux** | Kali | Docker | Tmux  
 - 📜 **Programming**: Python | Bash | JavaScript  
 - 🎭 **OSINT** | Bug Bounty  
-- 📲 **Mobile Security**: Android & iOS Pentesting   
+- 📲 **Mobile Security**: Android     
 - 🌐 **Web Security**: Web App Pentesting | API Pentesting  
 - 🛠 **Tools**:  
   - **Web & API**: Burp Suite | Acunetix | OWASP ZAP | Postman | FFUF  
