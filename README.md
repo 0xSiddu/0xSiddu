@@ -29,7 +29,7 @@ I'm a cybersecurity researcher, AI/ML enthusiast, and passionate developer focus
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSiddu&show_icons=true&theme=radical)  
 
 ## 🤝 Connect with Me  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/siddumulkalla/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/siddu-mulkalla/)  
 - 🐦 [Twitter](https://twitter.com/0xSiddu)  
 - 🌍 [![Linktree](https://img.shields.io/badge/-Linktree-39E09B?logo=Linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/0xSiddu)    
 
