@@ -1,37 +1,73 @@
-# 👋 Hello, I'm Siddu Mulkalla!  
-I'm a cybersecurity researcher, AI/ML enthusiast, and passionate developer focused on security automation, intelligent threat detection, and building AI-powered security tools. I enjoy working on open-source projects, ethical hacking, and exploring the intersection of artificial intelligence and cybersecurity.
+<div align="center">
 
-## 🛠️ My Skills  
-- 🔥 **Cybersecurity** | **Penetration Testing** | **Red Teaming**  
-- 🤖 **AI/ML**: Machine Learning | Deep Learning | NLP | Computer Vision
-- 🧠 **AI Security**: Adversarial ML | AI Model Security | Prompt Engineering
-- 🐧 **Linux** | Kali | Docker | Tmux  
-- 📜 **Programming**: Python | Bash | JavaScript | TensorFlow | PyTorch
-- 🎭 **OSINT** | Bug Bounty | Threat Intelligence
-- 📲 **Mobile Security**: Android Pentesting    
-- 🌐 **Web Security**: Web App Pentesting | API Security  
-- 🛠 **Tools**:  
-  - **AI/ML**: TensorFlow | PyTorch | Scikit-learn | Keras | Hugging Face
-  - **Web & API**: Burp Suite | Acunetix | OWASP ZAP | Postman | FFUF  
-  - **Mobile Pentesting**: MobSF | Frida | Objection | JADX | APKTool   
-  - **Exploitation & Recon**: Metasploit | Nmap | SQLMap | Amass | Subfinder 
+```
+╔══════════════════════════════════════════════════╗
+║   SIDDU MULKALLA  ·  0xSiddu                     ║
+║   Cybersecurity Researcher  ·  AI/ML Engineer    ║
+╚══════════════════════════════════════════════════╝
+```
 
-## 🚀 Current Focus
-- 🔍 Building AI-powered security automation tools
-- 🛡️ Researching adversarial attacks on ML models
-- 🤖 Developing intelligent threat detection systems
-- 📊 Applying ML to cybersecurity challenges
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddu-mulkalla/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0xSiddu)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/0xSiddu)
+[![Intigriti](https://img.shields.io/badge/Intigriti-000000?style=flat-square&logo=intigriti&logoColor=white)](https://app.intigriti.com/profile/pr3dato7)
 
-## 🏆 Bug Bounty & Security Research  
-[![Intigriti](https://img.shields.io/badge/Intigriti-000000?style=for-the-badge&logo=intigriti&logoColor=white)](https://app.intigriti.com/profile/pr3dato7)  
-
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSiddu&show_icons=true&theme=radical)  
-
-## 🤝 Connect with Me  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/siddu-mulkalla/)  
-- 🐦 [Twitter](https://twitter.com/0xSiddu)  
-- 🌍 [![Linktree](https://img.shields.io/badge/-Linktree-39E09B?logo=Linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/0xSiddu)    
+</div>
 
 ---
-💻 **Securing the future with AI and ethical hacking!** 🛡️🤖
+
+I break systems to build better ones. My work sits at the crossroads of **offensive security** and **artificial intelligence** — researching how ML models fail under adversarial conditions, building automation tools that cut through noise in threat detection, and hunting vulnerabilities across web, mobile, and API surfaces.
+
+Currently spending most of my time on AI-powered security tooling and adversarial ML research.
+
+---
+
+## Expertise
+
+**Offensive Security**
+Penetration Testing · Red Teaming · Bug Bounty · OSINT · Threat Intelligence
+Web App Security · API Security · Android Pentesting
+
+**AI / Machine Learning**
+Machine Learning · Deep Learning · NLP · Computer Vision
+Adversarial ML · AI Model Security · Prompt Engineering
+
+**Infrastructure & Stack**
+Python · Bash · JavaScript · TensorFlow · PyTorch
+Linux · Kali · Docker · Tmux
+
+---
+
+## Toolbox
+
+| Domain | Tools |
+|---|---|
+| **AI / ML** | TensorFlow · PyTorch · Scikit-learn · Keras · Hugging Face |
+| **Web & API** | Burp Suite · OWASP ZAP · Acunetix · Postman · FFUF |
+| **Mobile** | MobSF · Frida · Objection · JADX · APKTool |
+| **Exploitation & Recon** | Metasploit · Nmap · SQLMap · Amass · Subfinder |
+
+---
+
+## Current Work
+
+- Designing AI-powered security automation pipelines
+- Researching adversarial attacks on production ML models
+- Building intelligent threat detection systems
+- Applying ML techniques to real-world security challenges
+
+---
+
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSiddu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Securing the future — one exploit at a time.</sub>
+</div>
